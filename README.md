@@ -78,7 +78,7 @@
 ---
 
 <h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/sacheera_nimesh"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="55" width="210" alt="https://buymeacoffee.com/sacheera_nimesh" /></a></p><br><br>
+<p align="center"><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/sacheera_nimesh"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="55" width="210" alt="buymeacoffee.com/sacheera_nimesh" /></a></p><br><br>
 
 ---
 
