@@ -50,14 +50,25 @@
 
 ---
 
-<br>
-[![sacheera's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sacheera127&theme=tokyonight)](https://git.io/praveenscience)
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=sacheera127&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sacheera127&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
 
-| ![sacheera's github stats](https://github-readme-stats.vercel.app/api?username=sacheera127&show_icons=true&theme=tokyonight) | ![sacheera GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sacheera127&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sacheera127&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=sacheera127&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sacheera127&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
-
+---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sacheera127&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
@@ -66,11 +77,11 @@
 
 ---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/sacheera_nimesh"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/sacheera_nimesh" /></a></p><br><br>
+<h3 align="center">Support:</h3>
+<p align="center"><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/sacheera_nimesh"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="55" width="210" alt="https://buymeacoffee.com/sacheera_nimesh" /></a></p><br><br>
 
 ---
 
 Credits: [sacheera nimesh](https://github.com/sacheera127)
 
-Last Edited on: 10/19/2025
+
