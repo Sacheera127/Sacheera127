@@ -18,8 +18,8 @@
 Hi! My name is **Sacheera**, and thank you for taking the time to visit my GitHub profile 😊  
 
 - 🎓 I’m a **Junior** at the [Faculty of Computing](https://www.nsbm.ac.lk/faculty-of-computing/) – [NSBM Green University](https://www.nsbm.ac.lk/).  
-- 🌱 Currently learning **Python**  
-- 💬 Ask me about **Python, UI/UX Design, or Web Development**  
+- - 👦🏻 I'm 21 years old
+- 👀 I’m interested in **HTML, CSS, JS, PHP, MySQL,Java,Python** 
 - 🧠 Passionate about using software to solve real-world problems  
 - 📚 Constantly learning and exploring new technologies  
 - 📫 Reach me at **sacheeranimesh0513@gmail.com**  
