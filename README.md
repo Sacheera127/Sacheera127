@@ -42,6 +42,13 @@
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sacheera127&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=sacheera127&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sacheera127&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sacheera127&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 ---
 
 <h3 align="left">Support:</h3>
