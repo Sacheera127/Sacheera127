@@ -7,15 +7,29 @@
 
 
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br>
 <div size='20px'> Hi! My name is sacheera. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
+<br>
+</br>
+
+
+🎓 I’m a **Junior** at the [Faculty of Computing](https://www.nsbm.ac.lk/faculty-of-computing/) – [NSBM Green University](https://www.nsbm.ac.lk/).
 
 - 🌱 I’m currently learning **python**
 
 - 💬 Ask me about **python**
+
+- :technologist: I love using Software as a solution for every `Problem`.
+
+- :student: I’m currently learning `Computer Science`.
+
+- :nerd_face: Always `learning new things`.
 
 - 📫 How to reach me **sacheeranimesh0513@gmail.com**
 
